@@ -7,25 +7,25 @@ The Vstar Product Website is a specialized landing page and digital catalog dedi
 ## Key Features
 
 1. Product Visual Display
-  * Features high-quality images of the Vstar SSD to provide a clear look at the hardware design.
+   * Features high-quality images of the Vstar SSD to provide a clear look at the hardware design.
 2. Performance & Reliability Highlights
-  * A dedicated section explaining the core benefits of the SSD, such as speed, enterprise-grade durability, and energy efficiency.
+   * A dedicated section explaining the core benefits of the SSD, such as speed, enterprise-grade durability, and energy efficiency.
 3. User Experience Section
-  * A focused area describing how the product improves the daily computing experience for the end-user.
+   * A focused area describing how the product improves the daily computing experience for the end-user.
 4. Inquiry System
-  * A functional contact page allowing customers to reach out for support or product information.
+   * A functional contact page allowing customers to reach out for support or product information.
 5. Compatibility Information
-  * Clearly outlines support for major operating systems and both desktop and laptop hardware.
+   * Clearly outlines support for major operating systems and both desktop and laptop hardware.
 
 ## Tech Stack
 
 1. Backend
-  * PHP
+   * PHP
 2. Frontend
-  * HTML and CSS
-  * JavaScript
+   * HTML and CSS
+   * JavaScript
 3. Tools
-  * Visual Studio Code (VS Code)
+   * Visual Studio Code (VS Code)
 
 ## Screenshots
 
