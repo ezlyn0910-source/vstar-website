@@ -1,4 +1,32 @@
 # Vstar Product Website
+
+## Project Description
+
+The Vstar Product Website is a specialized landing page and digital catalog dedicated to the Vstar SSD product line. The project serves as a comprehensive information hub designed to showcase the high-performance capabilities and technical superiority of Vstar solid-state drives. Focused on conversion and user education, the website highlights the transition from traditional HDDs to advanced 3D NAND technology, providing potential users with a clear understanding of the speed, efficiency, and reliability benefits offered by the Vstar brand.
+
+## Key Features
+
+1. Product Visual Display
+  * Features high-quality images of the Vstar SSD to provide a clear look at the hardware design.
+2. Performance & Reliability Highlights
+  * A dedicated section explaining the core benefits of the SSD, such as speed, enterprise-grade durability, and energy efficiency.
+3. User Experience Section
+  * A focused area describing how the product improves the daily computing experience for the end-user.
+4. Inquiry System
+  * A functional contact page allowing customers to reach out for support or product information.
+5. Compatibility Information
+  * Clearly outlines support for major operating systems and both desktop and laptop hardware.
+
+## Tech Stack
+
+1. Backend
+  * PHP
+2. Frontend
+  * HTML and CSS
+  * JavaScript
+3. Tools
+  * Visual Studio Code (VS Code)
+
 ## Screenshots
 
 1. Homepage
@@ -13,5 +41,13 @@
   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/4b21724c-04e4-415c-9b0c-242350ea1dd3" />
 
 ## Setup Instruction
+
+1. Clone project from repository or download project zip file
+2. Open project folder on IDE such as VS Code
+3. Open terminal and run following commands
+4. Make sure PHP installed
+   * command: php -v
+5. Run build-in PHP server
+   * command: php -S localhost:8000
 
 **Developed by Ezlyn Azwa**
